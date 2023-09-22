@@ -1,2 +1,3 @@
 # OPENCV
 Create a emotion detection model
+make sure that you run on the same directory of these three items...
